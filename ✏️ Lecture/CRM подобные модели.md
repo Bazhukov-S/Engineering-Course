@@ -103,6 +103,8 @@ $$q_j(t)=q_j(t_0)e^{- \Big( \frac{t_n - t_0}{\tau_j} \Big)}+e^{-\frac{1}{\tau_j}
 ![Кусочно-линейный график изменения забойного давления добывающей скважины от момента времени](../files/Pasted%20image%2020240131135501.png)<br>
 
 **Кусочно-линейный график изменения забойного давления добывающей скважины от момента времени** $t_0$ до $t_n$<br>
+
+$$q_j(t_n)=q_j(t_0)e^{-\frac{t_n-t_0}{\tau_j}}+\sum_{k=1}^{n} \Bigg (e^{-\frac{t_n-t_0}{\tau_j}} \bigg (1-e^{-\frac{\Delta t_k}{\tau_j}} \bigg) \bigg ( \sum_{i=1}^{N_{inj}} (f_{ij} I_i^{(k)}) - J_j \tau_j \frac{\Delta p_{wf,j}^{(k)}}{\Delta t_k}\bigg) \Bigg ) \tag{1.4.11}$$<br>
 <br>
 
 
@@ -120,6 +122,9 @@ $$q_j(t)=q_j(t_0)e^{- \Big( \frac{t_n - t_0}{\tau_j} \Big)}+e^{-\frac{1}{\tau_j}
 **Кусочно-линейный график изменения приемистости нагнетательной скважины от момента времени** $t_0$ до $t_n$<br>
 
 
+$$q_j(t_n)=q_j(t_0)e^{-\frac{t_n-t_0}{\tau_j}}+ \sum_{i=1}^{N_{inj}} \Bigg( f_{ij} \bigg (i_i(t_n) - e^{-\frac{t_n-t_0}{\tau_j}} i_i(t_0)\bigg) \Bigg) -$$<br>
+
+$$ -\sum_{k=1}^{n} \Bigg (\tau_j e^{-\frac{t_n-t_0}{\tau_j}} \bigg (1-e^{-\frac{\Delta t_k}{\tau_j}} \bigg) \bigg ( \sum_{i=1}^{N_{inj}} (f_{ij} \frac{\Delta i_i^(k)}{\Delta t_k}) + J_j \tau_j \frac{\Delta p_{wf,j}^{(k)}}{\Delta t_k}\bigg) \Bigg ) \tag{1.4.12}$$<br>
 
 
 ### **Решение уравнения CRM**
