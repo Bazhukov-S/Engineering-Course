@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Материальный балланс.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Материальный балланс.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Материальный балланс.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Материальный балланс.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
-    "README.md",
     "Оглавление курса.md",
+    "Материальный балланс.md",
+    "README.md",
+    "Оглавление.md",
     "Иерархия моделей пласта.md",
     "Кривые падения.md",
-    "Материальный балланс.md",
     "Engineering-Course/Оглавление курса.md",
     "Engineering-Course/Материальный балланс.md",
     "Engineering-Course/Кривые падения.md",
