@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Lecture/INSIM-FT.md",
+                "file": "Оглавление курса.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Lecture/INSIM-FT.md",
+                "file": "Оглавление курса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Lecture/INSIM-FT.md",
+                "file": "Оглавление курса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Lecture/INSIM-FT.md"
+                "file": "Оглавление курса.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
-    "Оглавление курса.md",
     "✏️ Lecture/INSIM-FT.md",
+    "Оглавление курса.md",
     "files/Pasted image 20240131150324.png",
     "✏️ Lecture/CRM подобные модели.md",
     "✏️ Lecture/Кривые падения.md",
