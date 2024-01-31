@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "Модели трубок тока.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "Модели трубок тока.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "Модели трубок тока.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md"
+                "file": "Модели трубок тока.md"
               }
             }
           },
@@ -158,13 +158,16 @@
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
+    "files/Pasted image 20240131150324.png",
+    "Оглавление курса.md",
+    "Модели трубок тока.md",
+    "✏️ Lecture/CRM подобные модели.md",
+    "✏️ Lecture/Кривые падения.md",
     "files/Pasted image 20240131143810.png",
     "README.md",
     "Список примерных вопросов к зачету.md",
     "files/Sayarpour - Диссертация CRM.pdf",
     "Задания для итоговой работы.md",
-    "Оглавление курса.md",
-    "✏️ Lecture/CRM подобные модели.md",
     "files/Pasted image 20240131140047.png",
     "files/Pasted image 20240131135501.png",
     "✏️ Lecture/Иерархия моделей пласта.md",
@@ -175,7 +178,6 @@
     "files/Pasted image 20240131103847.png",
     "✏️ Lecture/Материальный балланс.md",
     "files/Pasted image 20240131100957.png",
-    "✏️ Lecture/Кривые падения.md",
     "✏️ Lecture/Оглавление курса.md",
     "✏️ Lecture",
     "Оглавление.md",
