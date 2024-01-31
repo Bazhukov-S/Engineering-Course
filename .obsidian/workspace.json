@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "✏️ Lecture/Иерархия моделей пласта.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "✏️ Lecture/Иерархия моделей пласта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "✏️ Lecture/Иерархия моделей пласта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "✏️ Lecture/Иерархия моделей пласта.md"
               }
             }
           },
@@ -159,10 +159,12 @@
   "lastOpenFiles": [
     "Оглавление курса.md",
     "README.md",
-    "Материальный балланс.md",
+    "✏️ Lecture/Оглавление курса.md",
+    "✏️ Lecture/Материальный балланс.md",
+    "✏️ Lecture",
     "Оглавление.md",
-    "Иерархия моделей пласта.md",
-    "Кривые падения.md",
+    "✏️ Lecture/Иерархия моделей пласта.md",
+    "✏️ Lecture/Кривые падения.md",
     "Engineering-Course/Оглавление курса.md",
     "Engineering-Course/Материальный балланс.md",
     "Engineering-Course/Кривые падения.md",
