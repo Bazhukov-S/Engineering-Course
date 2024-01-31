@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md"
+                "file": "README.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,18 +159,22 @@
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
     "files/Sayarpour - Диссертация CRM.pdf",
-    "✏️ Lecture/CRM подобные модели.md",
     "README.md",
+    "Список примерных вопросов к зачету.md",
+    "Задания для итоговой работы.md",
+    "Оглавление курса.md",
+    "✏️ Lecture/CRM подобные модели.md",
+    "files/Pasted image 20240131140047.png",
+    "files/Pasted image 20240131135501.png",
+    "✏️ Lecture/Иерархия моделей пласта.md",
     "files/Диссертация!!! Development and Aplication of CRM.pdf",
     "ссылка.md",
     "files/Pasted image 20240131104530.png",
     "Pasted.md",
     "files/Pasted image 20240131103847.png",
     "✏️ Lecture/Материальный балланс.md",
-    "Оглавление курса.md",
     "files/Pasted image 20240131100957.png",
     "✏️ Lecture/Кривые падения.md",
-    "✏️ Lecture/Иерархия моделей пласта.md",
     "✏️ Lecture/Оглавление курса.md",
     "✏️ Lecture",
     "Оглавление.md",
