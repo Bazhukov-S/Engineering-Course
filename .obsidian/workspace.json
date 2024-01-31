@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Оглавление курса.md",
+                "file": "✏️ Lecture/CRM подобные модели.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Оглавление курса.md",
+                "file": "✏️ Lecture/CRM подобные модели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Оглавление курса.md",
+                "file": "✏️ Lecture/CRM подобные модели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Оглавление курса.md"
+                "file": "✏️ Lecture/CRM подобные модели.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
-    "✏️ Lecture/Материальный балланс.md",
     "Оглавление курса.md",
+    "✏️ Lecture/CRM подобные модели.md",
+    "✏️ Lecture/Материальный балланс.md",
     "✏️ Lecture/Кривые падения.md",
     "✏️ Lecture/Иерархия моделей пласта.md",
     "README.md",
