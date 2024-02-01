@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Lecture/Иерархия моделей пласта.md",
+                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Lecture/Иерархия моделей пласта.md",
+                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Lecture/Иерархия моделей пласта.md",
+                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Lecture/Иерархия моделей пласта.md"
+                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md"
               }
             }
           },
@@ -158,11 +158,16 @@
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
-    "✏️ Lecture/CRM подобные модели.md",
-    "Оглавление курса.md",
-    "✏️ Lecture/INSIM-FT.md",
-    "files/Pasted image 20240131150324.png",
+    "✏️ Lecture/Материальный балланс.md",
     "✏️ Lecture/Кривые падения.md",
+    "✏️ Lecture/INSIM-FT.md",
+    "✏️ Lecture/Иерархия моделей пласта.md",
+    "✏️ Lecture/CRM подобные модели.md",
+    "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
+    "Оглавление курса.md",
+    "Модели, основанные на машинном обучении/нейронных сетях.md",
+    "Модели, основанные на машинном обучении",
+    "files/Pasted image 20240131150324.png",
     "files/Pasted image 20240131143810.png",
     "README.md",
     "Список примерных вопросов к зачету.md",
@@ -170,13 +175,11 @@
     "Задания для итоговой работы.md",
     "files/Pasted image 20240131140047.png",
     "files/Pasted image 20240131135501.png",
-    "✏️ Lecture/Иерархия моделей пласта.md",
     "files/Диссертация!!! Development and Aplication of CRM.pdf",
     "ссылка.md",
     "files/Pasted image 20240131104530.png",
     "Pasted.md",
     "files/Pasted image 20240131103847.png",
-    "✏️ Lecture/Материальный балланс.md",
     "files/Pasted image 20240131100957.png",
     "✏️ Lecture/Оглавление курса.md",
     "✏️ Lecture",
