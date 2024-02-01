@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
+                "file": "✏️ Lecture/CRM подобные модели.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
+                "file": "✏️ Lecture/CRM подобные модели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
+                "file": "✏️ Lecture/CRM подобные модели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md"
+                "file": "✏️ Lecture/CRM подобные модели.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
+    "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
     "files/Pasted image 20240201135304.png",
     "✏️ Lecture/Материальный балланс.md",
     "✏️ Lecture/Кривые падения.md",
     "✏️ Lecture/INSIM-FT.md",
     "✏️ Lecture/Иерархия моделей пласта.md",
     "✏️ Lecture/CRM подобные модели.md",
-    "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
     "Оглавление курса.md",
     "Модели, основанные на машинном обучении/нейронных сетях.md",
     "Модели, основанные на машинном обучении",
