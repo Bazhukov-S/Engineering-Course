@@ -11,7 +11,6 @@
 <br>
 
 Альтернативой является метод Альберта Рейнольдса INSIM-FT (Interwell Numerical Simulation Front Tracking models), в котором совместно решаются уравнения неразрывности, пьезопроводности и задача Баклея-Леверетта, однако без применения конечно- разностных методов и построения сеточной области. По своей сути и сложности INSIM приближается к гидродинамическому симулятору, но полностью специализированному для решения обратной задачи.<br>
-> Это максимально упрощенная модель трубок тока. С "настоящей" моделью можно ознакомиться по ссылкам: [Усовершенствованный метод трубок тока](https://cyberleninka.ru/article/n/usovershenstvovannyy-metod-trubok-toka-higginsa-leytona-dlya-modelirovaniya-zavodneniya-neftyanyh-mestorozhdeniy/viewer), [Моделирование на базе методов трубок и линий тока](https://cyberleninka.ru/article/n/modelirovanie-na-baze-metodov-trubok-i-liniy-toka/viewer)
 <br>
 
 ### Математическое описание метода INSIM-FT<br>

@@ -11,11 +11,9 @@
             "id": "857c68ce36454c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
-                "mode": "source",
-                "source": false
+                "file": "files/Sayarpour - Диссертация CRM.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "files/Sayarpour - Диссертация CRM.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md",
+                "file": "files/Sayarpour - Диссертация CRM.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Lecture/CRM подобные модели.md"
+                "file": "files/Sayarpour - Диссертация CRM.pdf"
               }
             }
           },
@@ -153,26 +151,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "857c68ce36454c4f",
   "lastOpenFiles": [
-    "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
-    "files/Pasted image 20240201135304.png",
     "✏️ Lecture/Материальный балланс.md",
-    "✏️ Lecture/Кривые падения.md",
-    "✏️ Lecture/INSIM-FT.md",
-    "✏️ Lecture/Иерархия моделей пласта.md",
-    "✏️ Lecture/CRM подобные модели.md",
     "Оглавление курса.md",
+    "✏️ Lecture/Модель трубок тока.md",
+    "files/Pasted image 20240205171512.png",
+    "files/Pasted image 20240205171408.png",
+    "✏️ Lecture/INSIM-FT.md",
+    "✏️ Lecture/Модели, основанные на машинном обучении, нейронных сетях.md",
+    "✏️ Lecture/CRM подобные модели.md",
+    "files/Pasted image 20240205170529.png",
+    "files/Sayarpour - Диссертация CRM.pdf",
+    "✏️ Lecture/Кривые падения.md",
+    "✏️ Lecture/Иерархия моделей пласта.md",
+    "slide.md",
+    "files/Pasted image 20240201135304.png",
     "Модели, основанные на машинном обучении/нейронных сетях.md",
     "Модели, основанные на машинном обучении",
     "files/Pasted image 20240131150324.png",
     "files/Pasted image 20240131143810.png",
     "README.md",
     "Список примерных вопросов к зачету.md",
-    "files/Sayarpour - Диссертация CRM.pdf",
     "Задания для итоговой работы.md",
     "files/Pasted image 20240131140047.png",
     "files/Pasted image 20240131135501.png",
@@ -181,7 +185,6 @@
     "files/Pasted image 20240131104530.png",
     "Pasted.md",
     "files/Pasted image 20240131103847.png",
-    "files/Pasted image 20240131100957.png",
     "✏️ Lecture/Оглавление курса.md",
     "✏️ Lecture",
     "Оглавление.md",
