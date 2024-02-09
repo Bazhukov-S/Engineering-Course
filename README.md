@@ -24,7 +24,8 @@
 ## Полезные ссылки
 <br>
 
-**Unifloc:**
+### Unifloc: <br>
+
 Ссылка на репозиторий: https://github.com/unifloc/unifloc_vba
 Нужно скачать надстройку для Excel "UniflocVBA_7.xlam"<br>
 
