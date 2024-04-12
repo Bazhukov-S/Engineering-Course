@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Practic/6 Практика OLGA.md",
+                "file": "✏️ Lecture/2.3 Газлифтный способ эксплуатации.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Practic/6 Практика OLGA.md",
+                "file": "✏️ Lecture/2.3 Газлифтный способ эксплуатации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Practic/6 Практика OLGA.md",
+                "file": "✏️ Lecture/2.3 Газлифтный способ эксплуатации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Practic/6 Практика OLGA.md"
+                "file": "✏️ Lecture/2.3 Газлифтный способ эксплуатации.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "cd7f4626c127802f",
   "lastOpenFiles": [
-    "💻 Practic/5 Практика Интегрированная модель.md",
     "💻 Practic/6 Практика OLGA.md",
+    "files/~$For_build_model.xlsx",
+    "💻 Practic/5 Практика Интегрированная модель.md",
     "Список примерных вопросов к зачету.md",
     "files/For_build_model.xlsx",
     "✏️ Lecture/2.2 Механизированная добыча - ЭЛН.md",
@@ -226,7 +227,6 @@
     "files/42ED3180",
     "files/BD4C3180",
     "files/Каталог Насосов.pdf",
-    "files/Каталог Насосов.pdf.crdownload",
     "files/Pasted image 20240409105207.png",
     "files/Pasted image 20240409105145.png",
     "files/Pasted image 20240409105122.png",
@@ -246,7 +246,6 @@
     "slide.md",
     "Модели, основанные на машинном обучении/нейронных сетях.md",
     "ссылка.md",
-    "Pasted.md",
-    "✏️ Lecture/Оглавление курса.md"
+    "Pasted.md"
   ]
 }
